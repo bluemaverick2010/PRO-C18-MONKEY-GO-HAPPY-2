@@ -94,7 +94,7 @@ function spawnBanana()
     bananaGroup.add(banana);
   }
 }
-
+/*function to create stones*/
 function spawnStones() 
 {
   //write code here to spawn the Stones
